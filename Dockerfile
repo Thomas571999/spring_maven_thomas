@@ -1,4 +1,4 @@
-# Utilisez une image de base avec Java 
+#  Utilisez une image de base avec Java 
 
 FROM eclipse-temurin:17-jdk 
 
